@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/08/23 13:41:18.000.717,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2022/08/23 13:41:19.000.146,=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2022/08/23 13:53:09.000.064,D:\LOCUS\LINQX_AUTO_SHOP\DEMANDAS\Menu\TesteDelphi\uPrincipal.pas=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2022/08/23 13:53:09.000.064,D:\LOCUS\LINQX_AUTO_SHOP\DEMANDAS\Menu\TesteDelphi\uPrincipal.dfm=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\FormUnit1.dfm</Transaction>
+    <Transaction>2022/08/23 13:53:38.000.473,D:\LOCUS\LINQX_AUTO_SHOP\DEMANDAS\Menu\TesteDelphi\wmPrincipal.pas=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2022/08/23 13:53:38.000.473,D:\LOCUS\LINQX_AUTO_SHOP\DEMANDAS\Menu\TesteDelphi\wmPrincipal.dfm=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.dfm</Transaction>
+    <Transaction>2022/08/23 13:53:56.000.900,D:\LOCUS\LINQX_AUTO_SHOP\DEMANDAS\Menu\TesteDelphi\MenuResidente.dproj=C:\Users\Mauricio\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/08/23 13:54:49.000.233,D:\LOCUS\LINQX_AUTO_SHOP\DEMANDAS\Menu\TesteDelphi\uwmPrincipal.dfm=D:\LOCUS\LINQX_AUTO_SHOP\DEMANDAS\Menu\TesteDelphi\wmPrincipal.dfm</Transaction>
+    <Transaction>2022/08/23 13:54:49.000.233,D:\LOCUS\LINQX_AUTO_SHOP\DEMANDAS\Menu\TesteDelphi\uwmPrincipal.pas=D:\LOCUS\LINQX_AUTO_SHOP\DEMANDAS\Menu\TesteDelphi\wmPrincipal.pas</Transaction>
+    <Transaction>2022/08/23 15:11:07.000.447,=D:\LOCUS\LINQX_AUTO_SHOP\DEMANDAS\Menu\Projetos\ApolloXE8\Apollo\GerenciadorLinxDMS.pas</Transaction>
+    <Transaction>2022/08/23 15:18:43.000.559,=D:\LOCUS\LINQX_AUTO_SHOP\DEMANDAS\Menu\Projetos\ApolloXE8\Apollo\Menu.pas</Transaction>
+    <Transaction>2022/08/23 15:54:10.000.493,=D:\LOCUS\LINQX_AUTO_SHOP\DEMANDAS\Menu\Projetos\ApolloXE8\Geral\UAplicacao.pas</Transaction>
+    <Transaction>2022/08/23 15:56:48.000.409,=D:\LOCUS\LINQX_AUTO_SHOP\DEMANDAS\Menu\Projetos\ApolloXE8\ConciliacaoContabil\LinxDmsWS\LinxDmsWsComum\udmConexao.pas</Transaction>
+    <Transaction>2022/08/23 15:57:40.000.629,D:\LOCUS\LINQX_AUTO_SHOP\DEMANDAS\Menu\Projetos\ApolloXE8\ConciliacaoContabil\LinxDmsWS\LinxDmsWsComum\udmConexao.pas=</Transaction>
+    <Transaction>2022/08/23 15:59:20.000.618,=D:\LOCUS\LINQX_AUTO_SHOP\DEMANDAS\Menu\Projetos\ApolloXE8\Geral\udmConexao.pas</Transaction>
+    <Transaction>2022/08/23 16:37:06.000.869,=D:\LOCUS\LINQX_AUTO_SHOP\DEMANDAS\Menu\Projetos\CNPComponentesXE8\CAPICOM_TLB.pas</Transaction>
+    <Transaction>2022/09/13 08:33:27.000.524,D:\LOCUS\LINQX_AUTO_SHOP\DEMANDAS\Menu\Projetos\CNPComponentesXE8\CAPICOM_TLB.pas=</Transaction>
+    <Transaction>2022/09/13 08:39:12.000.747,D:\LOCUS\LINQX_AUTO_SHOP\DEMANDAS\Menu\Projetos\ApolloXE8\Apollo\Menu.pas=</Transaction>
+    <Transaction>2022/09/13 08:39:18.000.080,D:\LOCUS\LINQX_AUTO_SHOP\DEMANDAS\Menu\Projetos\ApolloXE8\Apollo\GerenciadorLinxDMS.pas=</Transaction>
+    <Transaction>2022/09/13 08:39:24.000.535,D:\LOCUS\LINQX_AUTO_SHOP\DEMANDAS\Menu\Projetos\ApolloXE8\Geral\udmConexao.pas=</Transaction>
+    <Transaction>2022/09/13 08:41:52.000.368,D:\LOCUS\LINQX_AUTO_SHOP\DEMANDAS\Menu\Projetos\ApolloXE8\Geral\UAplicacao.pas=</Transaction>
+    <Transaction>2022/09/13 10:09:44.000.589,D:\LOCUS\LINQX_AUTO_SHOP\DEMANDAS\Menu\TesteDelphi\MenuResidente.dproj=D:\LOCUS\LINQX_AUTO_SHOP\DEMANDAS\Menu\TesteDelphi\AutoShopListener.dproj</Transaction>
+    <Transaction>2023/04/23 19:58:47.000.829,D:\GITHUB\AutoShopListener\AutoShopListener.dproj=D:\GITHUB\AutoShopListener\HttpListener.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
